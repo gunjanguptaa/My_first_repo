@@ -29,7 +29,7 @@ Welcome to my first repository!
 
 ---
 
-## 📫 Contact Me
+## 📫 How to reach me
 
 📧 Email: [gunjang2006@gmail.com](mailto:gunjang2006@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/gunjan-gupta-518051273](https://www.linkedin.com/in/gunjan-gupta-518051273/)
