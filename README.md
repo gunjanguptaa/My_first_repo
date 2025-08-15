@@ -50,7 +50,7 @@ Hello world.
 </head>
 <body>
   <div class="container">
-    <h1>👋 Hi there, I'm Priya Gupta (@prgupta1609)</h1>
+    <h1>👋 Hi there, I'm Gunjan Gupta (@gunjangupta__)</h1>
     <p>🎓 B.Tech CSE student at Amity University, Noida</p>
     <p>💻 Skilled in Python and C</p>
     <div class="section">
