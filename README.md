@@ -1,10 +1,10 @@
 # First_Repo
-This is my first Repository.
+<!DOCTYPE html>
+<p>This is my first Repository.</p>
 <br>
 Author- Gunjan Gupta .
-<br>
+</br>
 Hello world.
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
