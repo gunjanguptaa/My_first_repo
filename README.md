@@ -53,17 +53,6 @@ Hello world.
     <h1>👋 Hi there, I'm Priya Gupta (@prgupta1609)</h1>
     <p>🎓 B.Tech CSE student at Amity University, Noida</p>
     <p>💻 Skilled in Python and C</p>
-
-    <div class="section">
-      <h2>👀 Interests</h2>
-      <ul>
-        <li>Building intelligent systems that solve real-world problems</li>
-        <li>Developing AI/ML-powered applications</li>
-        <li>Exploring Generative AI</li>
-        <li>Contributing to open-source projects in the AI/ML domain</li>
-      </ul>
-    </div>
-
     <div class="section">
       <h2>🌱 Currently Learning</h2>
       <ul>
